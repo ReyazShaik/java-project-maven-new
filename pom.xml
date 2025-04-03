@@ -5,7 +5,7 @@
 	<artifactId>myapp</artifactId>
 	<packaging>war</packaging>
 	<version>8.3.3-SNAPSHOT</version>
-	<name>myapp</name>
+	<name>notmyapp</name>
 	<url>http://maven.apache.org</url>
 	 <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
