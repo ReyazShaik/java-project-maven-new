@@ -131,7 +131,7 @@
                 <img src="./assets/img/poster 6.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Avengers</h2>
-                    <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">Lorem Hello dolor hello consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
