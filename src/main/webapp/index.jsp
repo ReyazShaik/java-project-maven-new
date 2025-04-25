@@ -69,7 +69,7 @@
         </div>
         <div class="video-card">
             <img src="./assets/img/geographic.png" class="video-card-image" alt="">
-            <video src="./assets/video/geographic.mp4" mute loop class="card-video"></video>
+            <video src="./assets/video/geographics.mp4" mute loop class="card-video"></video>
         </div>
     </div>
 
