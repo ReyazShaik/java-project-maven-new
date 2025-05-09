@@ -42,7 +42,7 @@
             <!-- <div class="slider">
                 <div class="slide-content">
                     <h1 class="movie-title">loki</h1>
-                    <p class="movie-des">Lorem ipsum title, sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
+                    <p class="movies-des">Lorem ipsum title, sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
                 </div>
                 <img src="./assets/img/slider 1.png" alt="Slider">
             </div> -->
@@ -69,7 +69,7 @@
         </div>
         <div class="video-card">
             <img src="./assets/img/geographic.png" class="video-card-image" alt="">
-            <video src="./assets/video/geographic.mp4" mute loop class="card-video"></video>
+            <video src="./assets/video/geographics.mp4" mute loop class="card-video"></video>
         </div>
     </div>
 
@@ -477,7 +477,7 @@
                 <img src="./assets/img/poster 18.webp" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Dil Bechara</h2>
-                    <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">Lorem ipsum dolor SIT consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
