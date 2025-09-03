@@ -22,13 +22,18 @@ pipeline {
                 sh 'docker run -itd --name c1 -p 8888:8080 dockerimage'
             }
         }
-        stage('docker push'){
+        tage('Push to Docker Hub') {
             steps {
-                docker.withRegistry('https://index.docker.io/v1/', 'docker-hub-credentials') {
-                    def app =
-                docker.build("harireddy2910/hotstar-app:${env.BUILD_NUMBER}")
-                    app.push()
-               }
-           }
+                withCredentials([usernamePassword(credentialsId: 'dockerhub-creds', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                    sh '''
+                        echo "$DOCKER_PASS" | docker login -u "$DOCKER_USER" --password-stdin
+                        docker tag mytomcat $DOCKER_USER/mytomcat:latest
+                        docker push $DOCKER_USER/mytomcat:latest
+                        docker logout
+                    '''
+                }
+            }
+        }
+                  
     }
 }
