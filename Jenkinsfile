@@ -22,7 +22,7 @@ pipeline {
                 sh 'docker run -itd --name c1 -p 8888:8080 dockerimage'
             }
         }
-        tage('Push to Docker Hub') {
+        stage('Push to Docker Hub') {
             steps {
                 withCredentials([usernamePassword(credentialsId: 'dockerhub-creds', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
                     sh '''
