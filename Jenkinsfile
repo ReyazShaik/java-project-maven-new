@@ -21,5 +21,6 @@ pipeline {
                  sh 'docker rm -f c1 || true'
                 sh 'docker run -itd --name c1 -p 8888:8080 dockerimage'
             }
-        }    }
+        }    
+    }
 }
