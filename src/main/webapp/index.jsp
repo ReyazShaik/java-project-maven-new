@@ -21,7 +21,7 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">TV</a></li>
+            <li class="nav-items"><a href="#">DNA</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
@@ -131,7 +131,7 @@
                 <img src="./assets/img/poster 6.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Avengers</h2>
-                    <h6 class="des">RaviTeja Hello dolor hello consectetur elit.</h6>
+                    <h6 class="des">Khush Hello dolor hello consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
