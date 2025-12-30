@@ -99,7 +99,7 @@
                 <img src="./assets/img/poster 11.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Ford v Ferrari</h2>
-                    <h6 class="des">Sailaja ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">danish ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
