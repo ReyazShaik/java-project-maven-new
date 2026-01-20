@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ Hotstar - Watch TV Shows Online</title>
+    <title>Disney+ Hotstar - WATCH tv Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -90,7 +90,7 @@
             <div class="card">
                 <img src="./assets/img/poster 4.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Avengers Endgame</h2>
+                    <h2 class="name">Avengers doomsday</h2>
                     <h6 class="des">Danish ipsum dolor helo consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
@@ -114,7 +114,7 @@
             <div class="card">
                 <img src="./assets/img/poster 1.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Loki</h2>
+                    <h2 class="name">Lowkey</h2>
                     <h6 class="des">Lorem sri sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
@@ -194,7 +194,7 @@
             <div class="card">
                 <img src="./assets/img/card 14.webp" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Euphoria</h2>
+                    <h2 class="name">Eup</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
@@ -211,7 +211,7 @@
             <div class="card">
                 <img src="./assets/img/card 3.webp" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Yeh Rishta</h2>
+                    <h2 class="name">Yeah Rishta</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
