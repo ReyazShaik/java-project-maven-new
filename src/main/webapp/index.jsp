@@ -40,8 +40,7 @@
     <div class="carousel-container">
         <div class="carousel">
             <!-- <div class="slider">
-                <div class="slide-content">
-                    <h1 class="movie-title">loki</h1>
+                <div class="slide-cont
                     <p class="movie-des">Lorem ipsum title, sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
                 </div>
                 <img src="./assets/img/slider 1.png" alt="Slider">
