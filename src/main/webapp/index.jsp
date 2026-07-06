@@ -123,7 +123,7 @@
                 <img src="./assets/img/poster 5.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Thor Ragnarok</h2>
-                    <h6 class="des">Lakshmi ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">Lakshmi ipsum dolor sit consectetur elit bil.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
@@ -162,7 +162,7 @@
             <div class="card">
                 <img src="./assets/img/card 13.webp" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">The Office</h2>
+                    <h2 class="name">The Office mumbai b</h2>
                     <h6 class="des">Lorem Office dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
@@ -477,7 +477,7 @@
                 <img src="./assets/img/poster 18.webp" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Dil Bechara</h2>
-                    <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
+                    <h6 class="des">Lorem ipsum dolor sit consectetur .</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
